@@ -1,5 +1,5 @@
 # 🔖 ru-BERTopic
-Using BERT embeddings with c-TF-IDF for Topic Moddeling in russian language
+Using BERT embeddings with c-TF-IDF for Topic modeling in Russian language
 
 ## Getting started
 Getting embeddings, tokenizing and lemmatizing large chunks of data takes some time, and if you just want to see how it works, you can download already preprocessed [dataset of russian news](https://www.kaggle.com/datasets/vfomenko/russian-news-2020) here -> [Google Drive](https://drive.google.com/drive/folders/1S5QGiTMdIQUvtX_4bN359wzmqtx6IxHj?usp=sharing).
