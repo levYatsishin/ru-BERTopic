@@ -1,4 +1,4 @@
-#🔖 ru-BERTopic
+# 🔖 ru-BERTopic
 Using BERT embeddings with c-TF-IDF for topic moddeling
 
 ## Getting started
