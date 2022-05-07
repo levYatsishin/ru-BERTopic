@@ -6,7 +6,7 @@ Getting embeddings, tokenizing and lemmatizing large chunks of data takes some t
 
 | Name  | Link  |
 |---|---|
-| ru-BERTopic main notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FieRA9fLdkQEGDIMYl0I3MCjSUKVF8C-?usp=sharing)  |
+| ru-BERTopic main notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ATzg34lcWP6qRxxB96XR5u8FTiMC8nb_?usp=sharing)  |
 
 ## Visualisation
 Visualization implemented with plotly provides semi-interactive figures. You can play with it in the notebook above. Hovering over a point representing a single document reveals its topic and id for deeper digging-in.
