@@ -8,3 +8,7 @@ want to see how it works you can download my preprossed [dataset of russian news
 | Name  | Link  |
 |---|---|
 | ru-BERTopic main notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FieRA9fLdkQEGDIMYl0I3MCjSUKVF8C-?usp=sharing)  |
+
+## Visualisations
+Visualization realized with plotly provides semi-interactive figures. You can play with it in the notebook above. Hovering over a point symbalizing one document shows its topic and id for deeper diging-in.
+<img src="images/figure.png" align="center"/>
